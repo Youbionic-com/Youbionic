@@ -1,6 +1,6 @@
 # Site settings
 title: Youbionic
-email: your-email@domain.com
+email: youbionic@gmail.com
 description: >
   We work to create devices that support or replace parts of the body in order to make our lives better  
 lang: en-US
@@ -9,6 +9,7 @@ baseurl: "/Youbionic" # the subpath of your site, e.g. /blog/
 url: https://youbionic-com.github.io/Youbionic/ # the base hostname & protocol for your site
 git_address: https://youbionic-com.github.io/Youbionic/
 git_edit_address: https://youbionic-com.github.io/Youbionic/master
+website: https://www.youbionic.com
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
