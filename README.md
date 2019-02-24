@@ -16,15 +16,16 @@
 [Click here](assets/3d-model-assembly/Youbionic-Hand-2019-Assembly.igs) to find about our Youbionic Hand Assembly related information
 
 ### 3d Printing
-Click on the below names to View Diagram
--[Back Smooth Logo Left](assets/3d-printing/Back_Smooth_logo_Left.stl) 
--[Back Smooth Logo Right](assets/3d-printing/Back_Smooth_logo_Right.stl)
--[Index Middle Ring](assets/3d-printing/Index-Middle-Ring.stl)
--[Palm Left](assets/3d-printing/Palm_Left.stl)
--[Palm Right](assets/3d-printing/Palm_Right.stl)
--[Rotation Thumb Left](assets/3d-printing/Rotation_Thumb_Left.stl)
--[Rotation Thumb Right](assets/3d-printing/Rotation_Thumb_Right.stl)
--[Thumb Pinkie](assets/3d-printing/Thumb-Pinkie.stl) 
+Click on the below names to View 3D Printing Diagram
+
+- [Back Smooth Logo Left](assets/3d-printing/Back_Smooth_logo_Left.stl) 
+- [Back Smooth Logo Right](assets/3d-printing/Back_Smooth_logo_Right.stl)
+- [Index Middle Ring](assets/3d-printing/Index-Middle-Ring.stl)
+- [Palm Left](assets/3d-printing/Palm_Left.stl)
+- [Palm Right](assets/3d-printing/Palm_Right.stl)
+- [Rotation Thumb Left](assets/3d-printing/Rotation_Thumb_Left.stl)
+- [Rotation Thumb Right](assets/3d-printing/Rotation_Thumb_Right.stl)
+- [Thumb Pinkie](assets/3d-printing/Thumb-Pinkie.stl) 
 
 ### Actuators
 <object data="assets/actuators/Actuonix-PQ12-Datasheet-D.pdf" type="application/pdf" width="700px" height="700px">
