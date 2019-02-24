@@ -17,12 +17,21 @@
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>
             </ul>
             <div class="navbar-right">
-                <form class="navbar-form navbar-left">
-                    <div class="form-group has-feedback">
-                        <input id="search-box" type="search" class="form-control" placeholder="Search...">
-                        <i class="fa fa-search form-control-feedback"></i>
-                    </div>
-                </form>
+                <ul class="nav navbar-nav">{%
+                    for socloc in site.social %}
+                    {% if socloc[1] %}
+                    {% if socloc[0] == 'email' %}
+                    <li><a target="_blank" href="{%
+                    if socloc[1] contains '@' %}mailto:{{ socloc[1] }}
+                    {% else %}{{ socloc[1] }}
+                    {% endif %}" class="icon fa-envelope"><span class="label">E-mail</span></a></li>
+                    {% else %}
+                    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
+                       ><span class="label">{{ socloc[0] }}</span></a></li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                </ul>
                 <ul class="nav navbar-nav">
                     <li><a href="{{ site.git_address }}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
                 </ul>

@@ -7,9 +7,20 @@ lang: en-US
 
 baseurl: "/Youbionic" # the subpath of your site, e.g. /blog/
 url: https://youbionic-com.github.io/Youbionic/ # the base hostname & protocol for your site
-git_address: https://youbionic-com.github.io/Youbionic/
-git_edit_address: https://youbionic-com.github.io/Youbionic/master
+git_address: https://github.com/Youbionic-com/Youbionic
+git_edit_address: https://github.com/Youbionic-com/Youbionic/master
 website: https://www.youbionic.com
+
+
+# on all pages (and the first three you list display with greeting, if included)
+social:
+  facebook-official: https://facebook.com/Youbionic-1447353702171072/
+  youtube: http://www.youtube.com/channel/UCkk_Sxe8MZ64RcNQbXw_MjQ
+  twitter: https://twitter.com/youbionic
+  github: https://github.com/Youbionic
+  linkedin-square: https://www.linkedin.com/in/federicociccarese
+  instagram: http://instagram.com/youbionic
+  google-plus-square: https://plus.google.com/u/0/+HaliFlame  
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
