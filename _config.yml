@@ -8,7 +8,7 @@ lang: en-US
 baseurl: "/Youbionic" # the subpath of your site, e.g. /blog/
 url: https://youbionic-com.github.io/Youbionic/ # the base hostname & protocol for your site
 git_address: https://github.com/Youbionic-com/Youbionic
-git_edit_address: https://github.com/Youbionic-com/Youbionic/master
+git_edit_address: https://github.com/Youbionic-com/Youbionic/blob/master
 website: https://www.youbionic.com
 
 
