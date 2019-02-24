@@ -70,7 +70,9 @@ Click on the below names to View 3D Printing Diagram
 </object>
 
 ## About Us
-[![Youbionic Hand](assets/hands-images/1.HandSmooth.jpg)](https://www.youtube.com/watch?v=_5nRUtHUUb4 "Youbionic Hand 2019")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_5nRUtHUUb4
+" target="_blank"><img src="http://img.youtube.com/vi/_5nRUtHUUb4/0.jpg" 
+alt="Youbionic Hand 2019" width="240" height="180" border="10" /></a>
 
 ## License
 
