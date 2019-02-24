@@ -8,7 +8,7 @@
 - [3d Printing](#3d-printing)
 - [Actuators](#actuators)
 - [Arduino Code](#arduino-code)
-- [Handbook - Assembly Instructions](#handbook-assembly-instructions)
+- [Youbionic Hand Handbook - Assembly Instructions](#handbook-assembly-instructions)
 - [Technical Drawing](#technical-drawing)
 - [Wiring Diagrams](#wiring-diagrams)
 
@@ -16,23 +16,33 @@
 ### 3d Printing
 ### Actuators
 ### Arduino Code
-### Handbook - Assembly Instructions
+
+### Youbionic Hand Handbook - Assembly Instructions
+<object data="assets/handbook-assembly-instructions/Youbionic-Hand-Handbook-Assembly-Instructions.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/handbook-assembly-instructions/Youbionic-Hand-Handbook-Assembly-Instructions.pdf">
+        <p><a href="assets/handbook-assembly-instructions/Youbionic-Hand-Handbook-Assembly-Instructions.pdf">Gerber View</a></p>
+    </embed>
+</object>
+
 ### Technical Drawing
+![Technical Drawing!](assets/technical-drawing/Youbionic-Hand-Technical-Drawing.jpg "Technical Drawing")
 
 ### Wiring Diagrams
 ![Wiring Daigram!](assets/wiring-diagrams/3D1.jpg  "3D")
 
-1. <object data="assets/wiring-diagrams/gerber-view.pdf" type="application/pdf" width="700px" height="700px">
+<object data="assets/wiring-diagrams/gerber-view.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/gerber-view.pdf">
         <p><a href="assets/wiring-diagrams/gerber-view.pdf">Gerber View</a></p>
     </embed>
 </object>
-2. <object data="assets/wiring-diagrams/pcb-view.pdf" type="application/pdf" width="700px" height="700px">
+
+<object data="assets/wiring-diagrams/pcb-view.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/pcb-view.pdf">
         <p><a href="assets/wiring-diagrams/pcb-view.pdf">PCB View</a></p>
     </embed>
 </object> 
-3. <object data="assets/wiring-diagrams/schematic-v2.pdf" type="application/pdf" width="700px" height="700px">
+
+<object data="assets/wiring-diagrams/schematic-v2.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/schematic-v2.pdf">
         <p><a href="assets/wiring-diagrams/schematic-v2.pdf">Schematic View</a></p>
     </embed>
