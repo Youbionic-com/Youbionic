@@ -11,6 +11,7 @@
 - [Youbionic Hand Handbook - Assembly Instructions](#handbook-assembly-instructions)
 - [Technical Drawing](#technical-drawing)
 - [Wiring Diagrams](#wiring-diagrams)
+- [About Us](#about-us)
 
 ### 3d Model Assembly
 [Click here](assets/3d-model-assembly/Youbionic-Hand-2019-Assembly.igs) to find about our Youbionic Hand Assembly related information
@@ -67,6 +68,9 @@ Click on the below names to View 3D Printing Diagram
         <p><a href="assets/wiring-diagrams/schematic-v2.pdf">View PDF</a> to find more about our Schematic View.</a></p>
     </embed>
 </object>
+
+## About Us
+[![Youbionic Hand](assets/hands-images/1.HandSmooth.jpg)](https://www.youtube.com/watch?v=_5nRUtHUUb4 "Youbionic Hand 2019")
 
 ## License
 
