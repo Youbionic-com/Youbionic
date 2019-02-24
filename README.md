@@ -16,7 +16,7 @@
 [Click here](assets/3d-model-assembly/Youbionic-Hand-2019-Assembly.igs) to find about our Youbionic Hand Assembly related information
 
 ### 3d Printing
-<script src="https://embed.github.com/view/3d/Youbionic/Youbionic/master/assets/3d-printing/Back_Smooth_logo_Left.stl"></script>
+1. [Click here](assets/3d-printing/Back_Smooth_logo_Left.stl) to find about view our Back Smooth Logo Left.
 
 ### Actuators
 <object data="assets/actuators/Actuonix-PQ12-Datasheet-D.pdf" type="application/pdf" width="700px" height="700px">
