@@ -1,5 +1,26 @@
 <footer class="footer">
     <div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">				
+				<ul class="list-unstyled list-inline social text-center">{%
+                    for socloc in site.social %}
+                    {% if socloc[1] %}
+                    {% if socloc[0] == 'email' %}
+                    <li class="list-inline-item"><a target="_blank" href="{%
+                    if socloc[1] contains '@' %}mailto:{{ socloc[1] }}
+                    {% else %}{{ socloc[1] }}
+                    {% endif %}" ><i class="fa fa-envelope"></i></a></li>
+                    {% else %}
+                    <li class="list-inline-item"><a target="_blank" href="{{ socloc[1] }}" >
+                        <i class="fa fa-{{ socloc[0] }}" ></i></a>
+                    </li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+			</div>
+		</div>			
+	</div>
         <p class="text-center">
             © {{ site.time | date: '%Y' }} {{ site.title }} All Rights Reserved
         </p>

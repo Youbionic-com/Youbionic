@@ -14,13 +14,13 @@ website: https://www.youbionic.com
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  facebook-official: https://facebook.com/Youbionic-1447353702171072/
-  youtube: http://www.youtube.com/channel/UCkk_Sxe8MZ64RcNQbXw_MjQ
+  email: youbionic@gmail.com
   twitter: https://twitter.com/youbionic
-  github: https://github.com/Youbionic
-  linkedin-square: https://www.linkedin.com/in/federicociccarese
+  facebook-official: https://facebook.com/Youbionic-1447353702171072/
   instagram: http://instagram.com/youbionic
-  google-plus-square: https://plus.google.com/u/0/+HaliFlame  
+  youtube: http://www.youtube.com/channel/UCkk_Sxe8MZ64RcNQbXw_MjQ
+  linkedin-square: https://www.linkedin.com/in/federicociccarese
+  github: https://github.com/Youbionic-com/Youbionic
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
