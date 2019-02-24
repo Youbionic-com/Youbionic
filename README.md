@@ -22,17 +22,17 @@
 ### Wiring Diagrams
 ![Wiring Daigram!](assets/wiring-diagrams/3D1.jpg  "3D")
 
-- <object data="assets/wiring-diagrams/gerber-view.pdf" type="application/pdf" width="700px" height="700px">
+* <object data="assets/wiring-diagrams/gerber-view.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/gerber-view.pdf">
         <p><a href="assets/wiring-diagrams/gerber-view.pdf">Gerber View</a></p>
     </embed>
 </object>
-- <object data="assets/wiring-diagrams/pcb-view.pdf" type="application/pdf" width="700px" height="700px">
+* <object data="assets/wiring-diagrams/pcb-view.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/pcb-view.pdf">
         <p><a href="assets/wiring-diagrams/pcb-view.pdf">PCB View</a></p>
     </embed>
 </object> 
-- <object data="assets/wiring-diagrams/schematic-v2.pdf" type="application/pdf" width="700px" height="700px">
+* <object data="assets/wiring-diagrams/schematic-v2.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/schematic-v2.pdf">
         <p><a href="assets/wiring-diagrams/schematic-v2.pdf">Schematic View</a></p>
     </embed>
