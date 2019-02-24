@@ -13,10 +13,10 @@
 - [Wiring Diagrams](#wiring-diagrams)
 
 ### 3d Model Assembly
-[Click here](assets/3d-model-assembly/Youbionic-Hand-2019-Assembly.igs) to find about our 3D Model Assembly related information
+[Click here](assets/3d-model-assembly/Youbionic-Hand-2019-Assembly.igs) to find about our Youbionic Hand Assembly related information
 
 ### 3d Printing
-![Youbionic!](assets/3d-printing/Back_Smooth_logo_Left.stl "Youbionic")
+<script src="https://embed.github.com/view/3d/Youbionic/Youbionic/master/assets/3d-printing/Back_Smooth_logo_Left.stl"></script>
 
 ### Actuators
 <object data="assets/actuators/Actuonix-PQ12-Datasheet-D.pdf" type="application/pdf" width="700px" height="700px">
