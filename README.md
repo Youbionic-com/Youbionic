@@ -14,13 +14,21 @@
 
 ### 3d Model Assembly
 ### 3d Printing
+
 ### Actuators
+<object data="assets/actuators/Actuonix-PQ12-Datasheet-D.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/actuators/Actuonix-PQ12-Datasheet-D.pdf">
+        <p><a href="assets/actuators/Actuonix-PQ12-Datasheet-D.pdf">View PDF</a> to find more about Actuonix PQ12 Datasheet </p>
+    </embed>
+</object>
+
 ### Arduino Code
+[Click here](assets/arduino-code/Youbionic_Hand.ino) to find about our Youbionic Hand
 
 ### Youbionic Hand Handbook - Assembly Instructions
 <object data="assets/handbook-assembly-instructions/Youbionic-Hand-Handbook-Assembly-Instructions.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/handbook-assembly-instructions/Youbionic-Hand-Handbook-Assembly-Instructions.pdf">
-        <p><a href="assets/handbook-assembly-instructions/Youbionic-Hand-Handbook-Assembly-Instructions.pdf">Gerber View</a></p>
+        <p><a href="assets/handbook-assembly-instructions/Youbionic-Hand-Handbook-Assembly-Instructions.pdf">View PDF</a> to find more about our Youbionic Hand Handbook Assembly Instructions.</p>
     </embed>
 </object>
 
@@ -32,19 +40,19 @@
 
 <object data="assets/wiring-diagrams/gerber-view.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/gerber-view.pdf">
-        <p><a href="assets/wiring-diagrams/gerber-view.pdf">Gerber View</a></p>
+        <p><a href="assets/wiring-diagrams/gerber-view.pdf"> View PDF</a> to find more about our Gerber View.</p>
     </embed>
 </object>
 
 <object data="assets/wiring-diagrams/pcb-view.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/pcb-view.pdf">
-        <p><a href="assets/wiring-diagrams/pcb-view.pdf">PCB View</a></p>
+        <p><a href="assets/wiring-diagrams/pcb-view.pdf">View PDF</a> to find more about our PCB View.</p>
     </embed>
 </object> 
 
 <object data="assets/wiring-diagrams/schematic-v2.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/wiring-diagrams/schematic-v2.pdf">
-        <p><a href="assets/wiring-diagrams/schematic-v2.pdf">Schematic View</a></p>
+        <p><a href="assets/wiring-diagrams/schematic-v2.pdf">View PDF</a> to find more about our Schematic View.</a></p>
     </embed>
 </object>
 
