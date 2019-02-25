@@ -74,7 +74,9 @@ Click on the below names to View 3D Printing Diagram
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_5nRUtHUUb4
 " target="_blank"><img src="http://img.youtube.com/vi/_5nRUtHUUb4/0.jpg" 
-alt="Youbionic Hand 2019" width="240" height="180" border="10" /></a>
+alt="Youbionic Hand 2019" width="500" height="300" border="10" /></a>
+
+To Understand more about Youbionic Hand, visit our webiste [youbionic.com](https://www.youbionic.com/)
 
 ## License
 
