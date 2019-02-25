@@ -3,7 +3,7 @@
 ![Youbionic!](assets/youbionic-logo/LogoYouBionicLandscape200X200.jpg  "Youbionic")
 
 ## Table of Contents
-
+- [About Us](#about-us)
 - [3d Model Assembly](#3d-model-assembly)
 - [3d Printing](#3d-printing)
 - [Actuators](#actuators)
@@ -11,7 +11,15 @@
 - [Youbionic Hand Handbook - Assembly Instructions](#handbook-assembly-instructions)
 - [Technical Drawing](#technical-drawing)
 - [Wiring Diagrams](#wiring-diagrams)
-- [About Us](#about-us)
+
+## About Us
+![Youbionic Hand!](assets/hands-images/youbionic-hand.png "Youbionic Hand")
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_5nRUtHUUb4
+" target="_blank"><img src="http://img.youtube.com/vi/_5nRUtHUUb4/0.jpg" 
+alt="Youbionic Hand 2019" width="500" height="300" border="10" /></a>
+
+To Understand more about Youbionic Hand, visit our webiste [youbionic.com](https://www.youbionic.com/)
 
 ### 3d Model Assembly
 [Click here](assets/3d-model-assembly/Youbionic-Hand-2019-Assembly.igs) to find about our Youbionic Hand Assembly related information
@@ -68,15 +76,6 @@ Click on the below names to View 3D Printing Diagram
         <p><a href="assets/wiring-diagrams/schematic-v2.pdf">View PDF</a> to find more about our Schematic View.</a></p>
     </embed>
 </object>
-
-## About Us
-![Youbionic Hand!](assets/hands-images/youbionic-hand.png "Youbionic Hand")
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_5nRUtHUUb4
-" target="_blank"><img src="http://img.youtube.com/vi/_5nRUtHUUb4/0.jpg" 
-alt="Youbionic Hand 2019" width="500" height="300" border="10" /></a>
-
-To Understand more about Youbionic Hand, visit our webiste [youbionic.com](https://www.youbionic.com/)
 
 ## License
 
